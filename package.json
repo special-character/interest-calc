@@ -1,6 +1,6 @@
 {
   "name": "@b-rob/interest-calc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A calculator for determining the interest you will pay over the life of a loan or the amount of interest you can make on an investment.",
   "main": "index.js",
   "repository": {
